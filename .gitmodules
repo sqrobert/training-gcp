@@ -1,0 +1,3 @@
+[submodule "deployment-manager/7-gce"]
+	path = deployment-manager/7-gce
+	url = https://github.com/sqrobert/7-gce.git
